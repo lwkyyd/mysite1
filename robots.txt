@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /_astro/
+
+Sitemap: https://lwkyyd.github.io/mysite1/sitemap-index.xml

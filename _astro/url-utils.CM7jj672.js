@@ -1,0 +1,1 @@
+import"./zh_TW.CDCuNPt_.js";function i(t,e){const n=t.replace(/^\/|\/$/g,"").toLowerCase(),o=e.replace(/^\/|\/$/g,"").toLowerCase();return n===o}function r(...t){return t.join("/").replace(/\/+/g,"/")}function u(t){return a(`/posts/${t}/`)}function a(t){return r("","/mysite1/",t)}export{u as g,i as p,a as u};

@@ -1,0 +1,8 @@
+{
+  "outputDirectory": ".",
+  "cleanUrls": true,
+  "trailingSlash": true,
+  "rewrites": [
+    { "source": "/mysite1/:path*", "destination": "/:path*" }
+  ]
+}
